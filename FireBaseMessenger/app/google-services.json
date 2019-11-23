@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257617647867",
+    "firebase_url": "https://fir-messenger-c4ec3.firebaseio.com",
+    "project_id": "fir-messenger-c4ec3",
+    "storage_bucket": "fir-messenger-c4ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257617647867:android:f564fd0ab9a3f00d",
+        "android_client_info": {
+          "package_name": "com.entcord.firebasemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257617647867-6gp43vtifd0enikdad9ualroafeh5v0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entcord.firebasemessenger",
+            "certificate_hash": "81bdf9d11dadef7cb2fdbbfcc0e26214fd97404f"
+          }
+        },
+        {
+          "client_id": "257617647867-huig1m7k5s1abjfo6drp7l5ssi0s7d5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCVA9kWTmC0isKoh_vwPqfWqrFaXv7FCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257617647867-huig1m7k5s1abjfo6drp7l5ssi0s7d5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
